@@ -1,4 +1,17 @@
-Se realizo un login con React y firebase
+ **Login con React y Firebase**
+
+
+## Descripción.
+Se realizo un Single Page Aplication donde puedes crear cuenta y logiarte para entrar a una ruta protegida con middlewere.
+
+*- Interfaz Principal*.
+
+![](Login-React-Firebase.gif)
+
+- Firebase.
+
+ Se creo una base de datos llamada **usuarios** donde se almacena el correo y la contraseña encriptada.
+
 
 Hosting:
 
